@@ -2,7 +2,7 @@
 
 ## Overview
 
-This README provides instructions for setting up and using the Strapi API locally for the Frontend Assessment. This API includes the `/user-informations` endpoint for managing user data.
+This provides instructions for setting up and using the Strapi API locally for the Frontend Assessment. This API includes the `/user-informations` endpoint for managing user data.
 
 ## Setup and Running Strapi API Locally
 
@@ -34,6 +34,8 @@ This README provides instructions for setting up and using the Strapi API locall
    ```
    strapi start
    ```
+
+**Important Note:** If you face an issue while using `npm install` and receive a network error, you might need to delete the existing `node_modules` folder and rerun the `npm install` command.
 
 ## API Endpoints
 
@@ -71,7 +73,3 @@ POST http://localhost:1337/user-informations
 ## Testing the API
 
 You can test the API using tools like Postman by making HTTP requests to the specified endpoints.
-
-## Additional Resources
-
-For more detailed information and advanced configurations, refer to the [official Strapi documentation](https://strapi.io/documentation).
