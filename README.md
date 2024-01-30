@@ -35,16 +35,6 @@ This README provides instructions for setting up and using the Strapi API locall
    strapi start
    ```
 
-### Accessing the Admin Panel
-
-Once the server is running, you can access the Strapi admin panel at:
-
-```
-http://localhost:1337/admin
-```
-
-Create an administrator account to manage the application.
-
 ## API Endpoints
 
 ### `/user-informations` (GET)
