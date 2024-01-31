@@ -16,7 +16,7 @@ This provides instructions for setting up and using the Strapi API locally for t
 
 1. Clone the repository:
    ```
-   git clone https://github.com/MostafaMahgoub/Frontend-Assessment-Backend.git
+   git clone https://github.com/DigiFly-Development/Frontend-Assessment-Backend.git
    ```
 2. Navigate to the project directory:
    ```
